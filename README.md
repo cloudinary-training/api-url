@@ -4,14 +4,14 @@ This app is to provide an interactive experience that will help to visualize the
 
 There is also a page to see a Cloudinary URL in action.
 
+You can import a GitHub repo from cloudinary-training into glitch.com or you can use an [app already set up in glitch.com](https://glitch.com/edit/#!/agate-dust-breeze).  Use this link to import the project into your own Glitch account: [https://github.com/cloudinary-training/api-url](https://github.com/cloudinary-training/api-url).
+
 ## APIs and URLs
 
 You can look at the difference between what is returned by a request for a URL and a request
 for an API.  You'll see the information rendered as it would be in your browser on the top and rendered as it would be as text on the bottom.
 
 No credentials are needed for these URLs or APIs.
-
-
 
 
 ## Cloudinary API
